@@ -55,11 +55,10 @@ A great resource to keep handy when working in Open Refine is the [Open Refine M
 **Task Set #4**  
 
 1. Open the transform window for Publication Date using Dropdown>Edit Cells>Transform  
-2. Remove the (US) and (UK) terms using the .replace command  
-3. Remove the whitespace using the .trim command  
-4. Replace the .0 with blanks  
-4. Grab just the year using the .substring command then click OK to make the changes  
-
+2. Remove the (US) and (UK) terms using the .replace("","") command  
+3. Remove the whitespace using the .trim() command  
+4. Grab just the year using the .substring() command (negative 4 to grab last 4 characters) then click OK to make the changes  
+5. Export your file as a .csv using the export button
   
 
 ----
