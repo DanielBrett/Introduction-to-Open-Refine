@@ -34,14 +34,12 @@ A great resource to keep handy when working in Open Refine is the [Open Refine M
 1. Run Open Refine  
 2. Connect to the "BookList1.xlsx" data  
 3. Check that the settings are correct and click "Create Project"  
-4. When you are done type "PROJECT CREATED!!" in the chat to let me know that you are ready to move on  
 
   
 **Task Set #2**  
 1. Make a text facet for Book Title using the dropdown (Facet>Text Facet) then sort it by count instead of name  
 2. Remove extra spaces by going to the Book Title dropdown (Edit Cells>Common Transform>First option)  
 3. Cluster results and merge similar fields  
-4. Close the text facet and then type "TITLES CLEANED" into the chat  
 
 
   
@@ -51,7 +49,6 @@ A great resource to keep handy when working in Open Refine is the [Open Refine M
 2. Clean the data by trimming whitespace and clustering (remember to use both ngram-fingerprint and metaphone3)  
 3. Switch the view to show records instead of rows  
 4. Combine your split cells (Dropdown>Edit cells>Join multi-valued cells)  
-5. Close your facet and type "AUTHORS CLEAR!!!" into the chat  
 
 
   
@@ -62,7 +59,6 @@ A great resource to keep handy when working in Open Refine is the [Open Refine M
 3. Remove the whitespace using the .trim command  
 4. Replace the .0 with blanks  
 4. Grab just the year using the .substring command then click OK to make the changes  
-5. When you are done type "GREL MASTERED" into the chat  
 
   
 
