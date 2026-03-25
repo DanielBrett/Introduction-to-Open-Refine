@@ -1,4 +1,4 @@
-![Tool Logo](Intro-Open-Refine.jpg)
+![Tool Logo](Introduction-to-Open-Refine.jpg)
 
 
 # Introduction to Open Refine
@@ -69,10 +69,4 @@ A great resource to keep handy when working in Open Refine is the [Open Refine M
 ----
 ## Next Steps
 Once you have finished this workshop, the next step would be to try cleaning some of your own data with Open Refine!  If you don't have any datasets of your own, you can practice on the second book list found [HERE](https://github.com/BrockDSL/Introduction-to-Open-Refine/blob/master/BookList2.xlsx) or go find some free data to practice on from a site like [Kaggle.com](https://www.kaggle.com/).
- 
- 
- 
-----
-  
-**This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.**
 
